@@ -58,4 +58,4 @@ The main structure of the 3D scene is defined in the index.html file:
 
 ## Video Demonstration
 
-https://github.com/SimonK3lly/X3DOMAssignment/media/DemoVideo.mp4
+[Watch the Demo Video](https://github.com/SimonK3lly/X3DOMAssignment/raw/main/media/DemoVideo.mp4)
